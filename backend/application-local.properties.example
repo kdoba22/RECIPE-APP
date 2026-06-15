@@ -1,0 +1,8 @@
+# Copy to application-local.properties and customize for your machine.
+# application-local.properties is gitignored.
+
+# DATABASE_URL=jdbc:postgresql://localhost:5432/recipedb
+# DATABASE_USERNAME=your_db_user
+# DATABASE_PASSWORD=your_db_password
+# APP_SECURITY_USER=chef
+# APP_SECURITY_PASSWORD=change-me

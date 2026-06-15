@@ -39,3 +39,9 @@ dist/
 *.swp
 *.swo
 .DS_Store
+
+# Local secrets and environment overrides
+.env
+**/.env
+!**/.env.example
+backend/application-local.properties
